@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7938f8e0-c8b5-427f-b512-cf81ba3b73c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rGEKkoGLcQLfqA5cf8x9oh3oVb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pja.edu.s18591.Module" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LocationTest">
+    <configuration name="CountyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pja.edu.s18591.Module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pja.edu.s18591.Module" />
+      <option name="MAIN_CLASS_NAME" value="pja.edu.s18591.Module.CountyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountyTest.addBaronies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pja.edu.s18591.Module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pja.edu.s18591.Module" />
+      <option name="MAIN_CLASS_NAME" value="pja.edu.s18591.Module.CountyTest" />
+      <option name="METHOD_NAME" value="addBaronies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountyTest.removeKnownReligion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pja.edu.s18591.Module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pja.edu.s18591.Module" />
+      <option name="MAIN_CLASS_NAME" value="pja.edu.s18591.Module.CountyTest" />
+      <option name="METHOD_NAME" value="removeKnownReligion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountyTest.saveLoadExtent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pja.edu.s18591.Module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pja.edu.s18591.Module" />
+      <option name="MAIN_CLASS_NAME" value="pja.edu.s18591.Module.CountyTest" />
+      <option name="METHOD_NAME" value="saveLoadExtent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pja.edu.s18591.Module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pja.edu.s18591.Module" />
+      <option name="MAIN_CLASS_NAME" value="pja.edu.s18591.Module.LocationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CountyTest" />
+      <item itemvalue="JUnit.CountyTest.addBaronies" />
+      <item itemvalue="JUnit.CountyTest.removeKnownReligion" />
+      <item itemvalue="JUnit.CountyTest.saveLoadExtent" />
+      <item itemvalue="JUnit.LocationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocationTest" />
+        <item itemvalue="JUnit.CountyTest" />
+        <item itemvalue="JUnit.CountyTest.saveLoadExtent" />
+        <item itemvalue="JUnit.CountyTest.removeKnownReligion" />
+        <item itemvalue="JUnit.CountyTest.addBaronies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7938f8e0-c8b5-427f-b512-cf81ba3b73c2" name="Default Changelist" comment="" />
+      <created>1618593966792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618593966792</updated>
+      <workItem from="1618593981349" duration="23087000" />
+      <workItem from="1618617582643" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618611819561">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="509" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1474.864@0.0.1474.864" timestamp="1618611819561" />
+    <state x="175" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1618611443079">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="175" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864@0.0.1474.864" timestamp="1618611443079" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1618617307437">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1618617307437" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1618617307437">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1618617307437" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1618617307437">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1618617307437" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1618617307437">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1618617307437" />
+    <state x="218" y="7" key="SettingsEditor" timestamp="1618594989235">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="218" y="7" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1618594989235" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1618617583490">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1618617583490" />
+    <state x="467" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1618605845040">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="467" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1474.864@0.0.1474.864" timestamp="1618605845040" />
+    <state x="484" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1618616789603">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="484" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1474.864@0.0.1474.864" timestamp="1618616789603" />
+  </component>
+</project>
