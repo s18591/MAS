@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e442fdb-552c-42c4-9bc0-ba98569dcabf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1sKlTM3R8V4ocNWv4RrYvD735xa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../MAS_MP4_s18591" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e442fdb-552c-42c4-9bc0-ba98569dcabf" name="Default Changelist" comment="" />
+      <created>1620629172228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620629172228</updated>
+      <workItem from="1620629181890" duration="127000" />
+      <workItem from="1621091164835" duration="18000" />
+      <workItem from="1621091251822" duration="229000" />
+      <workItem from="1621106865788" duration="291000" />
+      <workItem from="1621705303247" duration="6215000" />
+      <workItem from="1621724917444" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1620629211981">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="587" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1474.864@0.0.1474.864" timestamp="1620629211981" />
+    <state x="512" y="187" key="FileChooserDialogImpl" timestamp="1621724939483">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="512" y="187" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1621724939483" />
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1620629255882" />
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1620629180257">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="434" y="256" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1620629180257" />
+    <state x="459" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621715220280">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="459" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1458.864@0.0.1458.864" timestamp="1621715220280" />
+    <state x="170" y="53" key="new project wizard" timestamp="1621705325756">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="170" y="53" key="new project wizard/0.0.1458.864@0.0.1458.864" timestamp="1621705325756" />
+  </component>
+</project>

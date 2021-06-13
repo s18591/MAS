@@ -1,0 +1,3 @@
+2021-05-29 22:27:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "KINGDOM" not found; SQL statement:
+Insert into Kingdom(id,name,kingName) values (1,'Lotrick','Lotrick'), (2,'Bolivia','Bolivar') [42102-200]

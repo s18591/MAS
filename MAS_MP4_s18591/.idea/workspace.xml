@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a4acfb-1777-4c2d-9f0f-5e0f87eef0ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1stwj8mUSWAiVKfO3MUovVsdWdN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pja.edu.s18591.Subset" />
+      <recent name="pja.edu.s18591.XOR" />
+      <recent name="pja.edu.s18591.Bug" />
+      <recent name="pja.edu.s18591.Custom" />
+      <recent name="pja.edu.s18591.Ordered" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AttributeTest.attributeTest">
+    <configuration name="AttributeTest.attributeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP4_s18591" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AttributeTest" />
+      <option name="METHOD_NAME" value="attributeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderedTest.orderedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP4_s18591" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderedTest" />
+      <option name="METHOD_NAME" value="orderedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetTest.subsetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP4_s18591" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SubsetTest" />
+      <option name="METHOD_NAME" value="subsetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueTest.uniqueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP4_s18591" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniqueTest" />
+      <option name="METHOD_NAME" value="uniqueTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XORTest.xorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MAS_MP4_s18591" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XORTest" />
+      <option name="METHOD_NAME" value="xorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AttributeTest.attributeTest" />
+        <item itemvalue="JUnit.SubsetTest.subsetTest" />
+        <item itemvalue="JUnit.XORTest.xorTest" />
+        <item itemvalue="JUnit.UniqueTest.uniqueTest" />
+        <item itemvalue="JUnit.OrderedTest.orderedTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a4acfb-1777-4c2d-9f0f-5e0f87eef0ce" name="Default Changelist" comment="" />
+      <created>1621705325814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621705325814</updated>
+      <workItem from="1621705329326" duration="16170000" />
+      <workItem from="1621724942222" duration="83000" />
+      <workItem from="1621853949516" duration="1805000" />
+      <workItem from="1622310866190" duration="509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="899" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1621721396428">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="899" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1458.864@0.0.1458.864" timestamp="1621721396428" />
+    <state x="527" y="292" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1621723056021">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="527" y="292" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1458.864@0.0.1458.864" timestamp="1621723056021" />
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621717865519">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1458.864@0.0.1458.864" timestamp="1621717865519" />
+    <state x="460" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621717589918">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="460" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1458.864@0.0.1458.864" timestamp="1621717589918" />
+    <state width="1415" height="202" key="GridCell.Tab.0.bottom" timestamp="1621855773878">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="202" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1621855773878" />
+    <state width="1415" height="202" key="GridCell.Tab.0.center" timestamp="1621855773878">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="202" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1621855773878" />
+    <state width="1415" height="202" key="GridCell.Tab.0.left" timestamp="1621855773878">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="202" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1621855773878" />
+    <state width="1415" height="202" key="GridCell.Tab.0.right" timestamp="1621855773878">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="202" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1621855773878" />
+    <state x="210" y="7" key="SettingsEditor" timestamp="1621708173736">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="210" y="7" key="SettingsEditor/0.0.1458.864@0.0.1458.864" timestamp="1621708173736" />
+    <state x="426" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1622310865229">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="426" y="256" key="com.intellij.ide.util.TipDialog/0.0.1458.864@0.0.1458.864" timestamp="1622310865229" />
+    <state x="459" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1621722264514">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="459" y="326" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1458.864@0.0.1458.864" timestamp="1621722264514" />
+    <state x="170" y="53" key="new project wizard" timestamp="1622311386675">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="170" y="53" key="new project wizard/0.0.1458.864@0.0.1458.864" timestamp="1622311386675" />
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1621724412108">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="392" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1458.864@0.0.1458.864" timestamp="1621724412108" />
+  </component>
+</project>
